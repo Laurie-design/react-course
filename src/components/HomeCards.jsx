@@ -18,7 +18,7 @@ const HomeCards = () => {
             Browse Jobs
           </Link>
        </Cards>
-       <cards bg='bg-indigo-100'>
+       <Cards bg='bg-indigo-100'>
          <h2 className="text-2xl font-bold">For Employers</h2>
           <p className="mt-2 mb-4">
             List your job to find the perfect developer for the role
@@ -29,7 +29,7 @@ const HomeCards = () => {
           >
             Add Job
           </Link>
-       </cards>
+       </Cards>
       </div>
     </div>
   </section>
